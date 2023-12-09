@@ -3,6 +3,7 @@ Author : Bruce Jackson
 Purpose : Control a Victor884 or TalonSR
 Language : MicroPython
 Harware : ESP8266, ESP12, motor controller
+Note-save this program as 'main.py' on the controller so it will start without the computer.
 '''
 #The machine module is specific to the ESP8266
 import machine
